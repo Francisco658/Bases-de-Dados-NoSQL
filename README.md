@@ -1,6 +1,6 @@
-# BDNoSQL - Trabalho Prático
+# Bases de Dados NoSQL - Trabalho Prático
 
-Trabalho Prático no âmbito da UC de Bases de Dados NoSQL
+Trabalho Prático no âmbito da Unidade Curricular de Bases de Dados NoSQL
 
 **<ins> Grupo </ins>**
 * Afonso Miguel Matos Bessa - pg53597
